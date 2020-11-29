@@ -1,0 +1,13 @@
+﻿DataStructres:
+DataStructure is an efficient way of save and retriving Data.
+
+Basic Datastructres:
+1) Array
+2) LinkedLists
+3) Stack
+4) Queue
+5) Binary Tree
+6) Binary Search Tree
+7) Heap
+8) Hashing
+
