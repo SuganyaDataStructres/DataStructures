@@ -46,3 +46,22 @@ e.g: (1,2,4,7,8,9, 10) insert no 5 in the following list.
 
 O(mn) - Example
 => nested foreach with two different limits
+
+LinkedList:
+A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. 
+The elements in a linked list are linked using pointers as shown in the below image:
+
+DoubleLinkedLists:
+A Doubly Linked List (DLL) contains an extra pointer, typically called previous pointer, 
+together with next pointer and data which are there in singly linked list.
+
+Stack:
+Stack is a linear data structure which follows a particular order in which the operations are performed. 
+The order may be LIFO(Last In First Out) or FILO(First In Last Out).
+
+Queue:
+A Queue is a linear structure which follows a particular order in which the operations are performed. 
+The order is First In First Out (FIFO). 
+A good example of a queue is any queue of consumers for a resource where the consumer that came first is served first. 
+The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; 
+in a queue, we remove the item the least recently added.
