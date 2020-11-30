@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_DataStructures", "DataS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Array", "002_Array\002_Array.csproj", "{C318397F-0D5C-436C-AEF4-E9748A0199B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_LinkedLists", "003_LinkedLIsts\003_LinkedLists.csproj", "{CA8C84B5-D0E6-4D16-9E82-0F49090D1C6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_LinkedLists", "003_LinkedLIsts\003_LinkedLists.csproj", "{CA8C84B5-D0E6-4D16-9E82-0F49090D1C6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_DoubleLinkedLists", "004_DoubleLinkedLists\004_DoubleLinkedLists.csproj", "{12300274-A519-49F9-9FE9-A2766BBD3427}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_DoubleLinkedLists", "004_DoubleLinkedLists\004_DoubleLinkedLists.csproj", "{12300274-A519-49F9-9FE9-A2766BBD3427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Stack", "005_Stack\005_Stack.csproj", "{54E0EEF7-C531-4DA1-9C83-336229111BC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{12300274-A519-49F9-9FE9-A2766BBD3427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12300274-A519-49F9-9FE9-A2766BBD3427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12300274-A519-49F9-9FE9-A2766BBD3427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E0EEF7-C531-4DA1-9C83-336229111BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E0EEF7-C531-4DA1-9C83-336229111BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E0EEF7-C531-4DA1-9C83-336229111BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E0EEF7-C531-4DA1-9C83-336229111BC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
