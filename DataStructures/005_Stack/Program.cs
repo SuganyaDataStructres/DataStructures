@@ -10,9 +10,9 @@ namespace _005_Stack
             stack.Push1(1);
             stack.Push1(2);
             stack.Push1(3);
+            stack.pop1();
+            stack.pop1();
             //stack.Push(2);
-            stack.Pop1();
-            stack.Pop1();
         }
     }
 }
